@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://japan-abroad.github.io/jp-players-fixtures/sitemap.xml
